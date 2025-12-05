@@ -1,2 +1,2 @@
 commit2 init
-commit3 init
+commit3 dinit
